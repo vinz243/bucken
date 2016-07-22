@@ -33,5 +33,5 @@ sudo port install py27-lxml
 cd ~/
 git clone https://github.com/vinz243/bucken.git
 chmod +x ./backen
-cd /usr/bin && sudo ln -s ~/backen
+cd /usr/bin && sudo ln -s ~/backen/backen
 ```
