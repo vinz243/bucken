@@ -27,8 +27,11 @@ sudo port install py27-lxml
 
 - `dpath`
 
-#### Change perms
+#### Installation
 
 ```sh
-sudo chmod +x ./backen
+cd ~/
+git clone https://github.com/vinz243/bucken.git
+chmod +x ./backen
+cd /usr/bin && sudo ln -s ~/backen
 ```
