@@ -14,7 +14,7 @@ This tool simply generate a BUCK file containing all instructions with everythio
 
 You will need LXML:
 
-- Debian/Ubuntu: 
+- Debian/Ubuntu:
 ```sh
 sudo apt-get install python-lxml
 ```
@@ -26,6 +26,7 @@ sudo port install py27-lxml
 #### python deps
 
 - `dpath`
+- `docopt`
 
 #### Installation
 
